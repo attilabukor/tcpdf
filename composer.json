@@ -1,0 +1,19 @@
+{
+    "name": "r1pp3rj4ck/tcpdf",
+    "type": "library",
+    "description": "PDF generator",
+    "keywords": ["TCPDF", "pdf", "generator"],
+    "homepage": "http://sourceforge.net/projects/tcpdf/",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Nicola Asuni",
+            "homepage": "http://sourceforge.net/users/nicolaasuni"
+        }
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "suggest": {
+        "symfony/framework-bundle": "2.*"
+    }
+}
